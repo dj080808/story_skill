@@ -49,6 +49,7 @@ description: >
 | 熊出没/熊大/熊二/光头强 | `references/characters/boonie-bears.md` |
 | 葫芦娃/大娃～七娃 | `references/characters/calabash-brothers.md` |
 | 舒克和贝塔 | `references/characters/shuke-and-beta.md` |
+| 奥特曼/迪迦/Tiga/大古 | `references/characters/ultraman.md` |
 
 **不要读取整个目录！** 只读目标角色对应的那一个 .md 文件。该文件已包含角色的全部设定信息 + 原作叙事模式。
 

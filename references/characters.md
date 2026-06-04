@@ -15,6 +15,7 @@
 | 熊出没、熊大、熊二、光头强 | `references/characters/boonie-bears.md` |
 | 葫芦娃、葫芦兄弟、大娃～七娃 | `references/characters/calabash-brothers.md` |
 | 舒克和贝塔 | `references/characters/shuke-and-beta.md` |
+| 奥特曼、迪迦、Ultraman、大古、怪兽 | `references/characters/ultraman.md` |
 
 ## 快速主题匹配
 
@@ -28,4 +29,6 @@
 | 诚实 | 小猪佩奇 → 大雄(哆啦A梦) → 熊二 |
 | 帮助他人 | 乐迪 → 汪汪队 → 哆啦A梦 |
 | 智慧 | 喜羊羊 → 哆啦A梦 → 舒克 |
-| 责任 | 莱德 → 熊大 → 大娃 |
+| 责任 | 莱德 → 熊大 → 迪迦 |
+| 勇气 | 迪迦奥特曼 → 哆啦A梦 → 小爱 |
+| 不放弃 | 迪迦奥特曼 → 喜羊羊 → 葫芦兄弟 |
